@@ -25,7 +25,7 @@ that can be reused and just does one thing */
 
 .intro {
   background-color: #111;
-  background-image: url(/assets/hero-img.jpeg);
+  background-image: url(assets/hero-img.jpeg);
   color: #fff;
 }
 
@@ -127,7 +127,7 @@ that can be reused and just does one thing */
 }
 
 .covid-info {
-  background-image: url(/assets/bg-img.jpeg);
+  background-image: url(assets/bg-img.jpeg);
 }
 
 .day {
@@ -176,7 +176,7 @@ that can be reused and just does one thing */
   width: 64px;
   height: 32px;
 
-  background-image: url(/assets/down-arrow.svg);
+  background-image: url(assets/down-arrow.svg);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
@@ -185,7 +185,7 @@ that can be reused and just does one thing */
 }
 
 .scroll-to-intro {
-  background-image: url(/assets/down-arrow-light.svg);
+  background-image: url(assets/down-arrow-light.svg);
 }
 
 @media (max-width: 960px) {
