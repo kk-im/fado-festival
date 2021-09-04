@@ -1,0 +1,31 @@
+/* @font-face allows us to embed custom fonts on our page */
+/* here we’re borrowing the code snippet from css-tricks
+which provides modern (by still very wide) browser support */
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,300;0,400;0,500;0,700;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap');
+
+.marquee,
+.lunch-medium,
+.section-heading,
+.lineup h2,
+.button,
+.register h2,
+.submit {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.info-link {
+    color: #fff;
+}
+
+a:hover {
+  text-decoration: underline;
+}
