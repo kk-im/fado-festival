@@ -127,7 +127,7 @@ that can be reused and just does one thing */
 }
 
 .covid-info {
-  background-image: url(assets/bg-img.jpeg);
+  background-image: url(/assets/bg-img.jpeg);
 }
 
 .day {
